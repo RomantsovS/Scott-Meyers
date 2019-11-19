@@ -6,7 +6,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\52.cpp">
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Item51.cpp">
+      <Filter>Effective-CPP-3rd-Editiion</Filter>
+    </ClCompile>
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Item52.cpp">
       <Filter>Effective-CPP-3rd-Editiion</Filter>
     </ClCompile>
   </ItemGroup>
