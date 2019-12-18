@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Item51.cpp" />
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Item52.cpp" />
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Item05\Item05.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
