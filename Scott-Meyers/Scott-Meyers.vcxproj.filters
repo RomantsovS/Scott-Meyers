@@ -6,7 +6,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Item05\Item05.cpp">
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 06 - Inheritance and Object-Oriented design\Item33 - Avoid hiding inherited names\Item33.cpp">
       <Filter>Effective-CPP-3rd-Editiion</Filter>
     </ClCompile>
   </ItemGroup>
