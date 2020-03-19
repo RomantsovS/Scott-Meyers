@@ -18,9 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 06 - Inheritance and Object-Oriented design\Item33 - Avoid hiding inherited names\Item33.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{EA79B2D9-E359-44AC-B32B-2259D604D13A}</ProjectGuid>

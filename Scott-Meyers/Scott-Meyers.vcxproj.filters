@@ -5,9 +5,4 @@
       <UniqueIdentifier>{52819e23-01c0-40fe-a07c-732d843b94cf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 06 - Inheritance and Object-Oriented design\Item33 - Avoid hiding inherited names\Item33.cpp">
-      <Filter>Effective-CPP-3rd-Editiion</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
