@@ -6,7 +6,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 07 - Templates and generic programming\Item46 - Define non-member functions inside templates when type conversions are desired\Item46.cpp">
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 08 - Custumizing new and delete\Item52 - Write placement delete if you write placement new\Item52.cpp">
       <Filter>Effective-CPP-3rd-Editiion</Filter>
     </ClCompile>
   </ItemGroup>
