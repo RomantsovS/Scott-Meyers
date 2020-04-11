@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 08 - Custumizing new and delete\Item52 - Write placement delete if you write placement new\Item52.cpp" />
+    <ClCompile Include="Effective-CPP-3rd-Editiion\Chapter 09 - Miscellany\Item53 - Pay attention to compiler warnings\Item53.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
